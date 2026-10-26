@@ -78,7 +78,7 @@
     }
     .nav { display: flex; align-items: center; justify-content: space-between; height: 78px; }
     .logo { display: flex; align-items: center; gap: 12px; }
-    .logo img { width: 52px; height: 52px; }
+    .logo img { height: 46px; width: auto; }
     .logo-text { line-height: 1.1; }
     .logo-text strong {
       display: block; font-family: "Brush Script MT", "Segoe Script", "Lucida Handwriting", cursive;
